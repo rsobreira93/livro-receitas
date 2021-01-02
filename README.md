@@ -1,4 +1,4 @@
-#Livro de receitas :man cooke:
+#Livro de receitas :man_cooke:
 
-Olá bem vindo ao meu livro de receitas
+Olá bem vindo ao meu livro de receitas :wave:
  - strogonoff de carne
