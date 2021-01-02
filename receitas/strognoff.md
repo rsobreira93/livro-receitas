@@ -1,4 +1,4 @@
-	#strogonoff de carne
+	# strogonoff de carne
 
 ### Ingredites
 
